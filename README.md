@@ -33,3 +33,25 @@ Al guardar el valor inicial y final con una variable igual, arroja la cifra de l
 #Ejercicio 6:
 
 La condición fue cumplir que cuento contara misisipi hast 100.
+
+#Ejercicio 7:
+
+Se modifica el comando reemplazando 1:100 por lista De Numeros; en la parte que se especificaba la
+secuencia.
+
+#Ejericio 8: 
+
+
+#Ejercicio 9:
+Se puede insertar a R comprender que se desea conocer la cantidad de mayor de votantes. Esto se hace poniendo un total antes, que es 100 en este caso.
+
+#Ejercicio 10:
+
+Se pueden utilizar las variables para operaciones aritmeticas, al guardar por ejemplo, para el caso de las sumas, (a,b){a+b}. De la misma forma se puede modificar para la division, multiplicación y la sustracción.
+
+#Ejercicio 11:
+
+En el ejercicio, cada figura se encuentra compuesta por 2 figuras, la zona achurada es la resta entre la figura más grande y la más pequeña que va en su interior. Se utilizan funciones en las que se integró el calculo de las areas de la figura grande y la pequeña (exterior de la figura y el interior) en el rectangulo se utiliza la función Area-rectangulo, donde b1 y h1 son la base y la altura del
+rectángulo exterior y b2 y h2 la base y altura del rectángulo del interior. 
+
+En el caso del círculo se utiliza la función Area-circulo donde r1 y r2 son los radios del circulo exterior e interior.
